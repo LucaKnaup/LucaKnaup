@@ -1,7 +1,7 @@
 ## Hello I’m Luca 👋
 <br>
 
-- 🌱 I’m currently learning App-Development with flutter
+- 🌱 I’m currently learning App-Development with Dart & Flutter
 - 📫 How to reach me: Discord: Luca K.#4626
 
 ## Languages and Tools:
