@@ -2,7 +2,6 @@
 <br>
 
 - 🌱 I’m currently learning App-Development with Swift & SwiftUI
-- 📫 How to reach me: Discord: Luca K.#4626
 
 ## Languages and Tools:
 <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/maven-C71A36.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white"/><img src="https://img.shields.io/badge/Dart-02569B.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>
