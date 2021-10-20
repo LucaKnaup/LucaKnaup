@@ -6,7 +6,7 @@
 ## Languages and Tools:
 <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/swift-f0643a.svg?&style=for-the-badge&logo=swift&logoColor=white"><img src="https://img.shields.io/badge/Dart-02569B.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/><img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/maven-C71A36.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/><img src="https://img.shields.io/badge/SwiftUI%20-1f74b5.svg?&style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/maven-C71A36.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5e2495?style=for-the-badge&logo=intellij%20idea&logoColor=white"/><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"><img src="https://img.shields.io/badge/android%20studio-3DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=white"><img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <br>
