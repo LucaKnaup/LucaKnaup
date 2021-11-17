@@ -1,0 +1,80 @@
+@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz|Pacifico);
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: url(https://s3.amazonaws.com/f.cl.ly/items/3a2h193d3W3O0L3g2U43/octocat_darkwood.jpg);
+	color: #000;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+
+div {
+	margin: 0 auto;
+	width: 800px;
+}
+
+h1 {
+	font-size: 10em;	
+	color: #fff;
+	margin-top: 40px;
+	white-space: nowrap;
+ 	overflow: hidden;
+	-webkit-animation: 4s type steps(60, end)
+}
+
+h2:before {
+	content: '\00a0';
+}
+
+h2 {
+	font-size: 4em;
+	opacity: 0.8;
+	color: #C8FF00;
+	margin-top: -40px;
+	padding-bottom: 20px;
+	font-family: 'Pacifico', sans-serif;
+	-webkit-animation: 4s fade steps(60, end);	
+}
+
+h3 {
+	white-space: pre;
+	font-size: 4em;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: #fff;
+	line-height: 30px;
+	-webkit-animation: 5s fade-suddenly steps(60, end);
+}
+
+h3:after {
+	content: '\A<marlonjb.cb@gmail.com>';
+	color: #ccc;
+	font-size: 0.5em;
+}
+
+h3:first-of-type {
+	margin: 50px 0px;
+}
+
+
+@-webkit-keyframes type{
+  0%{width: 0;}
+  50%{width: 0;}
+  100%{ width: 100%; } 
+} 
+
+@-webkit-keyframes fade{
+  0%{opacity: 0;}
+  50%{opacity: 0;}
+  80%{opacity: 0.3;}
+  100%{ opacity: 0.8; } 
+} 
+
+@-webkit-keyframes fade-suddenly{
+  0%{opacity: 0;}
+  80%{opacity: 0;}
+  100%{ opacity: 1; } 
+} 
