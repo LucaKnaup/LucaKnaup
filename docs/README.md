@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning App-Development with Swift & SwiftUI
 
-<img style="float: left;" src="whatever.jpg">
-
 ## Languages and Tools:
 <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/swift-f0643a.svg?&style=for-the-badge&logo=swift&logoColor=white"><img src="https://img.shields.io/badge/Dart-02569B.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>
 <br>
