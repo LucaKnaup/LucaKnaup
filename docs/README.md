@@ -1,6 +1,5 @@
 ## Hello I’m Luca 👋
 <br>
-
 - 🌱 I’m currently learning App-Development with Swift & SwiftUI
 
 ## Languages and Tools:
