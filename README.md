@@ -1,4 +1,4 @@
-## Hello I’m Luca 👋
+## Hello I’m Luca <img src="img/wave-hand.gif"/>
 <br>
 
 - 🌱 I’m currently learning App-Development with Swift & SwiftUI
