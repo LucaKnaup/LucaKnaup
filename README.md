@@ -1,7 +1,4 @@
-## Hello I’m Luca 👋
-<br>
-
-- 🌱 I’m currently learning App-Development with Swift & SwiftUI
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A4B0BE&lines=Hello+my+name+is+Luca+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%F0%9F%98%83;I%C2%B4m+interested+in+Swift+%26+SwiftUI+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ## Languages and Tools:
 <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/swift-f0643a.svg?&style=for-the-badge&logo=swift&logoColor=white"><img src="https://img.shields.io/badge/Dart-02569B.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>
