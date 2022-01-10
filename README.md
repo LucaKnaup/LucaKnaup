@@ -11,4 +11,4 @@
 <br>
 
 ## Github Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucaKnaup&count_private=true&show_icons=true&title_color=2E2EFE&icon_color=0000FF&text_color=0174DF&bg_color=151515)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucaKnaup&count_private=true&hide_border=true&show_icons=true&title_color=2E2EFE&icon_color=0000FF&text_color=0174DF&bg_color=151515)
