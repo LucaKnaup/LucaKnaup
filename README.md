@@ -11,6 +11,7 @@
 <br>
 <img src="https://img.shields.io/badge/Apple%20-000000.svg?&style=for-the-badge&logo=Apple&logoColor=white"/><img src="https://img.shields.io/badge/IOS%20-7877ed.svg?&style=for-the-badge&logo=IOS&logoColor=white"/><img src="https://img.shields.io/badge/Android%20-3DDD85.svg?&style=for-the-badge&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/Ubuntu%20-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 <br>
+<br>
 
 ## Github Stats:
 
