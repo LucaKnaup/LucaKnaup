@@ -16,4 +16,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LucaKnaup&label=Profile%20views&color=0e75b6&style=flat" alt="LucaKnaup" /> </p>
 
-![GitHub Stats]([https://github-readme-stats-lucas-projects-e88ed845.vercel.app/]https://github-readme-stats-git-master-lucas-projects-e88ed845.vercel.app/api?username=LucaKnaup&count_private=true&hide_border=true&show_icons=true&title_color=2E2EFE&icon_color=0000FF&text_color=0174DF&bg_color=151515)
+<img align="left" alt="LucaKnaup GitHub Stats" src="https://github-readme-stats-git-master-lucas-projects-e88ed845.vercel.app/api?username=LucaKnaup&count_private=true&hide_border=true&show_icons=true&title_color=2E2EFE&icon_color=0000FF&text_color=0174DF&bg_color=151515"/>
